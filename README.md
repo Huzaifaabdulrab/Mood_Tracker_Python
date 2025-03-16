@@ -72,3 +72,7 @@ This project is open-source and available under the MIT License.
 🔗 [GitHub](https://github.com/Huzaifaabdulrab)
 
 📱 [LinkedIn](https://www.linkedin.com/in/huzaifaabdulrab/)
+
+
+## Project link
+[MoodTracker](https://moodtrackerproject.streamlit.app/)
